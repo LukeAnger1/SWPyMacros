@@ -61,5 +61,10 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 * [Süleyman TÜRKOĞLU](https://github.com/suleymanturkoglu) <a href="https://tr.linkedin.com/in/suleymanturkoglu"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue.svg"></a>
 * [Onuralp SEZER](https://github.com/thunderbirdtr) <a href="https://www.linkedin.com/in/osezer/"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue.svg"></a>
 
+## Helpful resources
+
+Documentation
+https://help.solidworks.com/2023/english/api/SWHelp_List.html?id=ce688eb2c9544efd9fc39d9df64cb102#Pg0
+
 ## License
 MIT
