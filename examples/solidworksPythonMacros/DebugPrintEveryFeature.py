@@ -1,9 +1,3 @@
-import sys
-import time
-import asyncio
-
-import pythoncom
-
 import win32com.client
 
 # Solidworks Version (write the year) :

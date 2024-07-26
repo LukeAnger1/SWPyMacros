@@ -21,6 +21,7 @@ def PrintFeatureTree(swFeat, indentLevel, file):
 def main():
     print('testing macro')
 
+    # TODO: test the below code to see if it is working
     try:
         # Attempt to get an existing SolidWorks instance
         swApp = win32com.client.DispatchEx("SldWorks.Application")
