@@ -4,3 +4,4 @@ black==19.3b0
 Click==7.0
 pywin32>=301
 toml==0.10.0
+treelib
